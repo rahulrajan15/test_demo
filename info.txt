@@ -1,1 +1,2 @@
 Welcome to FrontEnd Developing
+Here you will learn from the scratch and become a good developer
